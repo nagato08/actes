@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "78397942674",
+    "project_id": "civilapp-5265b",
+    "storage_bucket": "civilapp-5265b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78397942674:android:d873c3adc5cb062854af4b",
+        "android_client_info": {
+          "package_name": "com.example.civilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78397942674-p9l5i7kd06584cgsmc5g1116dmuqi6hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civilapp",
+            "certificate_hash": "af08b490e76b54f537b1e8cac9ea6532ca3a502c"
+          }
+        },
+        {
+          "client_id": "78397942674-r6roumot2rt1m4o7de4u3sk7v0qkj8lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4R5FPPagYUjzPASZtMZrHtEdiyx-CxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78397942674-dljc9t104jevhs17gj7jp6in6gtp0l66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78397942674-j8kpkmtukq4g10ale7t9otd2ddl6d40j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.civilapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78397942674:android:8c850b12cd51490f54af4b",
+        "android_client_info": {
+          "package_name": "com.example.civils1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78397942674-r6roumot2rt1m4o7de4u3sk7v0qkj8lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4R5FPPagYUjzPASZtMZrHtEdiyx-CxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78397942674-dljc9t104jevhs17gj7jp6in6gtp0l66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78397942674-j8kpkmtukq4g10ale7t9otd2ddl6d40j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.civilapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
